@@ -28,4 +28,4 @@ COUNTIF
 CHOOSE
 MID
 나이계산
-
+IF AND
