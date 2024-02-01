@@ -15,3 +15,13 @@
 선택한 셀영역 수정 단축키 ( )
 사용자 지정 표시 형식 ( )
 날짜 칠때 앞쪽 년도 생략 ( )
+사람수 세기  COUNTA
+범위설정후 타이핑 (엔터시 안내려가고 가로로)
+numberstring()
+함수 + 한글
+RANK
+엑셀 IF문
+LEFT 함수
+SUMIF
+AVERAGEIF
+COUNTIF
