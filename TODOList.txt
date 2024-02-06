@@ -25,7 +25,9 @@
 엑셀(Excel) 사람 수 세기 / COUNT/COUNTA/COUNTBLANK/COUNTIF/COUNTIFS ( v )
 
 
-범위설정후 타이핑 (엔터시 안내려가고 가로로)
+엑셀(Excel) - 엔터 시 가로 방향으로 진행하기 / 범위 설정 후 타이핑 ( v )
+
+
 numberstring()
 함수 + 한글
 RANK
