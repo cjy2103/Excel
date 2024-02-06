@@ -22,7 +22,9 @@
 엑셀(Excel) - 앞쪽 연도 생략 타이핑 ( v )
 
 
-사람수 세기  COUNTA
+엑셀(Excel) 사람 수 세기 / COUNT/COUNTA/COUNTBLANK/COUNTIF/COUNTIFS ( v )
+
+
 범위설정후 타이핑 (엔터시 안내려가고 가로로)
 numberstring()
 함수 + 한글
