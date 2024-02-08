@@ -28,7 +28,9 @@
 엑셀(Excel) - 엔터 시 가로 방향으로 진행하기 / 범위 설정 후 타이핑 ( v )
 
 
-numberstring()
+엑셀(Excel) - 숫자를 한글로 변환하기 / NUMBERSTRING() ( v )
+
+
 함수 + 한글
 RANK
 엑셀 IF문
