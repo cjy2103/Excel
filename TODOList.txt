@@ -30,8 +30,9 @@
 
 엑셀(Excel) - 숫자를 한글로 변환하기 / NUMBERSTRING() ( v )
 
+엑셀(Excel) - 함수 + 한글, 함수와 한글을 같이 쓰기 / 함수,한글 연결 ( v )
 
-함수 + 한글
+
 RANK
 엑셀 IF문
 LEFT 함수
