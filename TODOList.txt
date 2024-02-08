@@ -32,8 +32,9 @@
 
 엑셀(Excel) - 함수 + 한글, 함수와 한글을 같이 쓰기 / 함수,한글 연결 ( v )
 
+엑셀(Excel) - 순위 구하기 / Rank / RANK.EQ ( v )
 
-RANK
+
 엑셀 IF문
 LEFT 함수
 SUMIF
