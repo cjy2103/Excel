@@ -33,7 +33,7 @@
 
 엑셀(Excel) - 순위 구하기 / Rank / RANK.EQ ( v )
 
-엑셀 IF문
+엑셀(Excel) - 조건문 / if 문 / 중첩 if 문 ( v )
 
 LEFT 함수
 SUMIF
