@@ -35,7 +35,8 @@
 
 엑셀(Excel) - 조건문 / if 문 / 중첩 if 문 ( v )
 
-LEFT 함수
+엑셀(Excel) - Left 함수, Right 함수 / 성, 이름 추출하기 / LEN 함수 / 문자열 길이 ( v )
+
 SUMIF
 AVERAGEIF
 COUNTIF
