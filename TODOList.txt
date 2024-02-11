@@ -34,8 +34,8 @@
 
 엑셀(Excel) - 순위 구하기 / Rank / RANK.EQ ( v )
 
-
 엑셀 IF문
+
 LEFT 함수
 SUMIF
 AVERAGEIF
