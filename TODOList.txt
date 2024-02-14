@@ -37,7 +37,8 @@
 
 엑셀(Excel) - Left 함수, Right 함수 / 성, 이름 추출하기 / LEN 함수 / 문자열 길이 ( v )
 
-SUMIF
+엑셀(Excel) - SUMIF 함수 / 특정 조건 합 구하기 ( v )
+
 AVERAGEIF
 COUNTIF
 CHOOSE
