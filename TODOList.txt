@@ -41,8 +41,8 @@
 
 엑셀(Excel) - AVERAGEIF 함수 / 특정 조건 평균 구하기 ( v )
 
+엑셀(Excel) 기초 - COUNTIF 함수 / 특정 조건을 만족하는 데이터의 개수  ( v )
 
-COUNTIF
 CHOOSE
 MID
 나이계산
