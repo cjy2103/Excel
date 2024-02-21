@@ -51,7 +51,8 @@
 
 엑셀(Excel) 기초 - IF 문 AND, OR 적용하기 / IF 문 여러 조건 동시에 판별하기 ( v )
 
-필터/ 고급필터
+엑셀(Excel) - 고급 필터 / 필터 AND,OR,NOT 조건 거는 법 ( v )
+
 
 VLookUp
 
